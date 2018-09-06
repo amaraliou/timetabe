@@ -30,15 +30,35 @@ class Timetable:
 
 class Slot:
 
-    def __init__(self):
-        pass
+    def __init__(self, weekday = "", start = datetime.now(), end = datetime.now(), title = "", location = "", desc = ""):
+        self.weekday = weekday
+        self.week = get39weeks().index(getweek(start.date()))
+        self.starts_at = start.astimezone(LONDON).time()
+        self.ends_at = end.astimezone(LONDON).time()
+        self.date = start.date()
+        self.temptitle = re.findall('Level 2 Enrolment|Maths 2A|Maths 2B|Maths 2C|Maths 2D|Maths 2E|Maths 2F|OOSE2|NOSE 2|Algs & Data Structures 2|Java Programming 2|Alg Foundations 2|Web App Development 2', desc)[0]
+        try:
+            self.title = LONGTOSHORT[self.temptitle]
+        except:
+            self.title = self.temptitle
+        self.location = location
+        self.desc = desc
+        try:
+            self.lecturetype = re.findall('Lecture|Seminar|Laboratory|Tutorial', desc)[0]
+        except:
+            self.lecturetype = None
+
+    def get_slot(self):
+        self.ks = ['weekday', 'week', 'start', 'end', 'date', 'title', 'location', 'desc', 'type']
+        self.vs = [self.weekday, self.week, str(self.starts_at), str(self.ends_at), str(self.date), self.title, self.location, self.desc, self.lecturetype]
+        return dict(zip(self.ks, self.vs))
 
 #Get the start and the end of a week given a date
 def getweek(date):
     pass
 
 #Get the 39 weeks of the academic year
-def get39week():
+def get39weeks():
     pass
 
 #Parse a date string and convert it to datetime object
