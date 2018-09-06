@@ -122,15 +122,17 @@ class Slot:
 
 #Get the start and the end of a week given a date
 def getweek(date):
-    pass
+    start = date - timedelta(days=date.weekday())
+    end = start + timedelta(days=6)
+    return start, end
 
 #Get the 39 weeks of the academic year
 def get39weeks():
-    pass
+    return [getweek(datetime(2018, 9, 10, 0, 0, 0, 0, tzinfo = LONDON).date() + timedelta(days = i*7)) for i in range(40)]
 
 #Parse a date string and convert it to datetime object
 def dateparser(datestring):
-    pass
+    return dateutil.parser.parse(datestring)
 
 
 if __name__ == '__main__':
