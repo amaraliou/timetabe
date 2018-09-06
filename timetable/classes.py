@@ -73,7 +73,26 @@ class iCal:
 class Timetable:
 
     def __init__(self):
-        pass
+        self.timetable = [[''] + DAYS] + [[str((datetime(2018, 9, 10, 9, 0, 0, 0, tzinfo = None) + timedelta(hours = i)).time())] + ['' for i in range(5)] for i in range(9)]
+    
+    def prettyprint(self):
+        for i in self.timetable:
+            if not i[1::] == [''] * 5:
+                print("{:<10} {:<20} {:<17} {:<17} {:<17} {:<17}\n".format(*i))
+
+    def insert_slot(self, slot):
+        self.x = DAYSTOINT[slot['weekday']]
+        self.y = HOURSTOINT[slot['start']]
+        if not (HOURSTOINT[slot['end']] - HOURSTOINT[slot['start']]) >= 2:
+            self.timetable[self.y][self.x] = slot['title'] + ' ' + slot['type']
+        else:
+            self.timetable[self.y][self.x] = slot['title'] + ' ' + slot['type']
+            self.timetable[self.y + 1][self.x] = slot['title'] + ' ' + slot['type']
+        return
+
+    def emptytable(self):
+        self.timetable = [[''] + DAYS] + [[str((datetime(2018, 9, 10, 9, 0, 0, 0, tzinfo = None) + timedelta(hours = i)).time())] + ['' for i in range(5)] for i in range(9)]
+        return
 
 
 class Slot:
