@@ -18,8 +18,56 @@ HOURSTOINT = {str((datetime(2018, 9, 10, 9, 0, 0, 0, tzinfo = None) + timedelta(
 
 class iCal:
 
-    def __init__(self):
-        pass
+    def __init__(self, icsfilepath):
+        self.calobject = Calendar.from_ical(open(icsfilepath, 'rb').read())
+
+    def get_calobject(self):
+        return self.calobject
+
+    def geteventdetails(self, eventobject):
+        self.slot = Slot(INTODAYS[eventobject['dtstart'].dt.weekday()],
+                         eventobject['dtstart'].dt.replace(tzinfo = pytz.utc),
+                         eventobject['dtend'].dt.replace(tzinfo = pytz.utc),
+                         str(eventobject['summary']),
+                         str(eventobject['location']),
+                         str(eventobject['description']))
+        return self.slot
+
+    #Serializable list of events
+    def getallevents(self):
+        self.events = []
+        for event in self.calobject.walk('vevent'):
+            self.details = self.geteventdetails(event)
+            self.events.append(self.details.get_slot())
+        return self.events
+
+    #Serializable dictionary of events by date
+    def getalleventsbydate(self):
+        self.es = self.getallevents()
+        self.eventsbydate = {}
+        self.eventsbydate = {d['date']: [] for d in self.es if not d['date'] in self.eventsbydate}
+        for ev in self.es:
+            self.date = ev['date']
+            ev.__delitem__('date')
+            self.eventsbydate[self.date].append(ev)
+        return self.eventsbydate
+    
+    #Serializable dictionary of events by week
+    def getalleventsbyweek(self):
+        self.es = self.getallevents()
+        self.eventsbyweek = {}
+        self.eventsbyweek = {d['week']: [] for d in self.es if not d['date'] in self.eventsbyweek}
+        for ev in self.es:
+            self.week = ev['week']
+            ev.__delitem__('week')
+            self.eventsbyweek[self.week].append(ev)
+        return self.eventsbyweek
+
+    def jsonevents(self, filepath, eventfunction):
+        self.filejson = open(filepath, 'w+')
+        self.jsondata = eventfunction()
+        json.dump(self.jsondata, self.filejson)
+        return
 
 
 class Timetable:
