@@ -32,3 +32,19 @@ class Slot:
 
     def __init__(self):
         pass
+
+#Get the start and the end of a week given a date
+def getweek(date):
+    pass
+
+#Get the 39 weeks of the academic year
+def get39week():
+    pass
+
+#Parse a date string and convert it to datetime object
+def dateparser(datestring):
+    pass
+
+
+if __name__ == '__main__':
+    pass
