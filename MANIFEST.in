@@ -1,0 +1,3 @@
+include timetable/data/lecturesbydate.json
+include timetable/data/lecturesbyweek.json
+include timetable/data/uogtimetable.ics
