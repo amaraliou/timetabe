@@ -1,5 +1,7 @@
 #Compiled Python modules
 *.pyc
+/*.pyc
+/timetable/*.pyc
 
 #Virtual Environment folder
 /venv/

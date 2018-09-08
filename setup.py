@@ -14,5 +14,6 @@ setup(
     entry_points='''
         [console_scripts]
         timetable=timetable.__main__:timetable
-        '''
+        ''',
+    include_package_data = True
 )
