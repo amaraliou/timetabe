@@ -1,0 +1,9 @@
+#Compiled Python modules
+*.pyc
+
+#Virtual Environment folder
+/venv/
+
+#Python egg metadata
+/*.egg-info
+/*.egg

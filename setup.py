@@ -14,5 +14,10 @@ setup(
     entry_points='''
         [console_scripts]
         timetable=timetable.__main__:timetable
+<<<<<<< HEAD
         '''
+=======
+        ''',
+    include_package_data = True
+>>>>>>> Setting up main and init and testing in virtual environment
 )
