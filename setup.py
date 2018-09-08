@@ -13,6 +13,6 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        timetable=timetable:timetable
-    ''',
+        timetable=timetable.__main__:timetable
+        '''
 )

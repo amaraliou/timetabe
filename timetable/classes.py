@@ -64,7 +64,7 @@ class iCal:
         return self.eventsbyweek
 
     def jsonevents(self, filepath, eventfunction):
-        self.filejson = open(filepath, 'w+')
+        self.filejson = open(filepath, 'w')
         self.jsondata = eventfunction()
         json.dump(self.jsondata, self.filejson)
         return
@@ -133,7 +133,3 @@ def get39weeks():
 #Parse a date string and convert it to datetime object
 def dateparser(datestring):
     return dateutil.parser.parse(datestring)
-
-
-if __name__ == '__main__':
-    pass
