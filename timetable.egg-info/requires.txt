@@ -1,5 +1,0 @@
-Click
-icalendar
-datetime
-python-dateutil
-pytz

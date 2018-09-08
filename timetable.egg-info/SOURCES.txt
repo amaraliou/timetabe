@@ -1,7 +1,0 @@
-README.md
-timetable.egg-info/PKG-INFO
-timetable.egg-info/SOURCES.txt
-timetable.egg-info/dependency_links.txt
-timetable.egg-info/entry_points.txt
-timetable.egg-info/requires.txt
-timetable.egg-info/top_level.txt
