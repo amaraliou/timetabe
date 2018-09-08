@@ -1,0 +1,4024 @@
+{
+    "2019-02-22": [
+        {
+            "week": 23,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 23,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 23,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 23,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: OOSE2\nClass Type: Tutorial\nLecturer: Omoronyia, Dr Inah\nDetails: OOSE2 Examples class.\n",
+            "type": "Tutorial",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 23,
+            "end": "16:00:00",
+            "title": "WAD2",
+            "start": "15:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Laboratory\nDetails: WAD2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-02-11": [
+        {
+            "week": 22,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2D\nClass Type: Tutorial\nLecturer: Watson, Dr Stephen\n",
+            "type": "Tutorial",
+            "location": "St Andrews  Building:237A/B"
+        },
+        {
+            "week": 22,
+            "end": "12:00:00",
+            "title": "OOSE2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 22,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2E\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "Sir Alexander Stone Building:204"
+        }
+    ],
+    "2019-02-13": [
+        {
+            "week": 22,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 22,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 22,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 22,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 22,
+            "end": "15:00:00",
+            "title": "ADS2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Laboratory\nDetails: ADS2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-02-12": [
+        {
+            "week": 22,
+            "end": "11:00:00",
+            "title": "OOSE2",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: OOSE2\nClass Type: Laboratory\nDetails: OOSE2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        },
+        {
+            "week": 22,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 22,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-02-15": [
+        {
+            "week": 22,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 22,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 22,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 22,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: OOSE2\nClass Type: Tutorial\nLecturer: Omoronyia, Dr Inah\nDetails: OOSE2 Examples class.\n",
+            "type": "Tutorial",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 22,
+            "end": "16:00:00",
+            "title": "WAD2",
+            "start": "15:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Laboratory\nDetails: WAD2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-02-14": [
+        {
+            "week": 22,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 22,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-02-19": [
+        {
+            "week": 23,
+            "end": "11:00:00",
+            "title": "OOSE2",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: OOSE2\nClass Type: Laboratory\nDetails: OOSE2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        },
+        {
+            "week": 23,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 23,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-02-18": [
+        {
+            "week": 23,
+            "end": "12:00:00",
+            "title": "OOSE2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 23,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2C\nClass Type: Tutorial\nLecturer: Gilson, Dr Claire\n",
+            "type": "Tutorial",
+            "location": "Joseph Black Building:A504 Theoreti"
+        }
+    ],
+    "2019-03-08": [
+        {
+            "week": 25,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 25,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 25,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 25,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: OOSE2\nClass Type: Tutorial\nLecturer: Omoronyia, Dr Inah\nDetails: OOSE2 Examples class.\n",
+            "type": "Tutorial",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 25,
+            "end": "16:00:00",
+            "title": "WAD2",
+            "start": "15:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Laboratory\nDetails: WAD2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-03-05": [
+        {
+            "week": 25,
+            "end": "11:00:00",
+            "title": "OOSE2",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: OOSE2\nClass Type: Laboratory\nDetails: OOSE2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        },
+        {
+            "week": 25,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 25,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-03-04": [
+        {
+            "week": 25,
+            "end": "12:00:00",
+            "title": "OOSE2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 25,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2C\nClass Type: Tutorial\nLecturer: Gilson, Dr Claire\n",
+            "type": "Tutorial",
+            "location": "Joseph Black Building:A504 Theoreti"
+        }
+    ],
+    "2019-03-07": [
+        {
+            "week": 25,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 25,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-03-06": [
+        {
+            "week": 25,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 25,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 25,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 25,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 25,
+            "end": "15:00:00",
+            "title": "ADS2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Laboratory\nDetails: ADS2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-03-01": [
+        {
+            "week": 24,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 24,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 24,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 24,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: OOSE2\nClass Type: Tutorial\nLecturer: Omoronyia, Dr Inah\nDetails: OOSE2 Examples class.\n",
+            "type": "Tutorial",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 24,
+            "end": "16:00:00",
+            "title": "WAD2",
+            "start": "15:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Laboratory\nDetails: WAD2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-10-22": [
+        {
+            "week": 6,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2F\nClass Type: Tutorial\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Tutorial",
+            "location": "Wolfson Medical School:248 Seminar 3-Gann"
+        },
+        {
+            "week": 6,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2A\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "McIntyre Building:201 Flat"
+        },
+        {
+            "week": 6,
+            "end": "12:00:00",
+            "title": "JP2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 6,
+            "end": "15:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Laboratory\nDetails: JP2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-10-23": [
+        {
+            "week": 6,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 6,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 6,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-10-26": [
+        {
+            "week": 6,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 6,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 6,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: JP2 Tutorial and Examples class.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 6,
+            "end": "15:00:00",
+            "title": "AF2",
+            "start": "14:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Laboratory\nLecturer: Norman, Dr Gethin\nDetails: AF2 LB01, LB02, LB03\n",
+            "type": "Laboratory",
+            "location": "St Andrews  Building:433A/B"
+        }
+    ],
+    "2018-10-24": [
+        {
+            "week": 6,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 6,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 6,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 6,
+            "end": "15:00:00",
+            "title": "NOSE 2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: NOSE 2\nClass Type: Laboratory\nDetails: NOSE2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-10-25": [
+        {
+            "week": 6,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 6,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 6,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-10-29": [
+        {
+            "week": 7,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2A\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "McIntyre Building:201 Flat"
+        },
+        {
+            "week": 7,
+            "end": "12:00:00",
+            "title": "JP2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 7,
+            "end": "15:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Laboratory\nDetails: JP2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-02-25": [
+        {
+            "week": 24,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2D\nClass Type: Tutorial\nLecturer: Watson, Dr Stephen\n",
+            "type": "Tutorial",
+            "location": "St Andrews  Building:237A/B"
+        },
+        {
+            "week": 24,
+            "end": "12:00:00",
+            "title": "OOSE2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 24,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2E\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "Sir Alexander Stone Building:204"
+        }
+    ],
+    "2019-02-26": [
+        {
+            "week": 24,
+            "end": "11:00:00",
+            "title": "OOSE2",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: OOSE2\nClass Type: Laboratory\nDetails: OOSE2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        },
+        {
+            "week": 24,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 24,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-02-27": [
+        {
+            "week": 24,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 24,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 24,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 24,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 24,
+            "end": "15:00:00",
+            "title": "ADS2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Laboratory\nDetails: ADS2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-02-20": [
+        {
+            "week": 23,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 23,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 23,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 23,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 23,
+            "end": "15:00:00",
+            "title": "ADS2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Laboratory\nDetails: ADS2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-02-21": [
+        {
+            "week": 23,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 23,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2018-11-30": [
+        {
+            "week": 11,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 11,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 11,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: JP2 Tutorial and Examples class.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 11,
+            "end": "15:00:00",
+            "title": "AF2",
+            "start": "14:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Laboratory\nLecturer: Norman, Dr Gethin\nDetails: AF2 LB01, LB02, LB03\n",
+            "type": "Laboratory",
+            "location": "St Andrews  Building:433A/B"
+        }
+    ],
+    "2019-02-28": [
+        {
+            "week": 24,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 24,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2018-10-31": [
+        {
+            "week": 7,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 7,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 7,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 7,
+            "end": "15:00:00",
+            "title": "NOSE 2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: NOSE 2\nClass Type: Laboratory\nDetails: NOSE2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-10-30": [
+        {
+            "week": 7,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 7,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 7,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-10-05": [
+        {
+            "week": 3,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 3,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 3,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: JP2 Tutorial and Examples class.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 3,
+            "end": "15:00:00",
+            "title": "AF2",
+            "start": "14:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Laboratory\nLecturer: Norman, Dr Gethin\nDetails: AF2 LB01, LB02, LB03\n",
+            "type": "Laboratory",
+            "location": "St Andrews  Building:433A/B"
+        }
+    ],
+    "2018-11-27": [
+        {
+            "week": 11,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 11,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 11,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-11-26": [
+        {
+            "week": 11,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2A\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "McIntyre Building:201 Flat"
+        },
+        {
+            "week": 11,
+            "end": "12:00:00",
+            "title": "JP2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 11,
+            "end": "15:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Laboratory\nDetails: JP2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-11-21": [
+        {
+            "week": 10,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 10,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 10,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 10,
+            "end": "15:00:00",
+            "title": "NOSE 2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: NOSE 2\nClass Type: Laboratory\nDetails: NOSE2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-11-20": [
+        {
+            "week": 10,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 10,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 10,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-11-23": [
+        {
+            "week": 10,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 10,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 10,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: JP2 Tutorial and Examples class.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 10,
+            "end": "15:00:00",
+            "title": "AF2",
+            "start": "14:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Laboratory\nLecturer: Norman, Dr Gethin\nDetails: AF2 LB01, LB02, LB03\n",
+            "type": "Laboratory",
+            "location": "St Andrews  Building:433A/B"
+        }
+    ],
+    "2018-11-22": [
+        {
+            "week": 10,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 10,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 10,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-11-29": [
+        {
+            "week": 11,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 11,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 11,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-11-28": [
+        {
+            "week": 11,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 11,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 11,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 11,
+            "end": "15:00:00",
+            "title": "NOSE 2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: NOSE 2\nClass Type: Laboratory\nDetails: NOSE2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-03-22": [
+        {
+            "week": 27,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 27,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 27,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 27,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: OOSE2\nClass Type: Tutorial\nLecturer: Omoronyia, Dr Inah\nDetails: OOSE2 Examples class.\n",
+            "type": "Tutorial",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 27,
+            "end": "16:00:00",
+            "title": "WAD2",
+            "start": "15:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Laboratory\nDetails: WAD2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-03-21": [
+        {
+            "week": 27,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 27,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-03-20": [
+        {
+            "week": 27,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 27,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 27,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 27,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 27,
+            "end": "15:00:00",
+            "title": "ADS2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Laboratory\nDetails: ADS2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-10-04": [
+        {
+            "week": 3,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 3,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 3,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-11-19": [
+        {
+            "week": 10,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2F\nClass Type: Tutorial\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Tutorial",
+            "location": "Wolfson Medical School:248 Seminar 3-Gann"
+        },
+        {
+            "week": 10,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2A\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "McIntyre Building:201 Flat"
+        },
+        {
+            "week": 10,
+            "end": "12:00:00",
+            "title": "JP2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 10,
+            "end": "15:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Laboratory\nDetails: JP2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-10-01": [
+        {
+            "week": 3,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2A\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "McIntyre Building:201 Flat"
+        },
+        {
+            "week": 3,
+            "end": "12:00:00",
+            "title": "JP2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 3,
+            "end": "15:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Laboratory\nDetails: JP2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-10-02": [
+        {
+            "week": 3,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 3,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 3,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-10-03": [
+        {
+            "week": 3,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 3,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 3,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 3,
+            "end": "15:00:00",
+            "title": "NOSE 2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: NOSE 2\nClass Type: Laboratory\nDetails: NOSE2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-10-08": [
+        {
+            "week": 4,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2F\nClass Type: Tutorial\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Tutorial",
+            "location": "Wolfson Medical School:248 Seminar 3-Gann"
+        },
+        {
+            "week": 4,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2A\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "McIntyre Building:201 Flat"
+        },
+        {
+            "week": 4,
+            "end": "12:00:00",
+            "title": "JP2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 4,
+            "end": "15:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Laboratory\nDetails: JP2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-11-12": [
+        {
+            "week": 9,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2A\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "McIntyre Building:201 Flat"
+        },
+        {
+            "week": 9,
+            "end": "12:00:00",
+            "title": "JP2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 9,
+            "end": "15:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Laboratory\nDetails: JP2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-11-13": [
+        {
+            "week": 9,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 9,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 9,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-11-14": [
+        {
+            "week": 9,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 9,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 9,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 9,
+            "end": "15:00:00",
+            "title": "NOSE 2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: NOSE 2\nClass Type: Laboratory\nDetails: NOSE2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-10-09": [
+        {
+            "week": 4,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 4,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 4,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-11-16": [
+        {
+            "week": 9,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 9,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 9,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: JP2 Tutorial and Examples class.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 9,
+            "end": "15:00:00",
+            "title": "AF2",
+            "start": "14:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Laboratory\nLecturer: Norman, Dr Gethin\nDetails: AF2 LB01, LB02, LB03\n",
+            "type": "Laboratory",
+            "location": "St Andrews  Building:433A/B"
+        }
+    ],
+    "2018-11-15": [
+        {
+            "week": 9,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 9,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 9,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-11-09": [
+        {
+            "week": 8,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 8,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 8,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: JP2 Tutorial and Examples class.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 8,
+            "end": "15:00:00",
+            "title": "AF2",
+            "start": "14:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Laboratory\nLecturer: Norman, Dr Gethin\nDetails: AF2 LB01, LB02, LB03\n",
+            "type": "Laboratory",
+            "location": "St Andrews  Building:433A/B"
+        }
+    ],
+    "2018-11-08": [
+        {
+            "week": 8,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 8,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 8,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-11-07": [
+        {
+            "week": 8,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 8,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 8,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 8,
+            "end": "15:00:00",
+            "title": "NOSE 2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: NOSE 2\nClass Type: Laboratory\nDetails: NOSE2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-11-06": [
+        {
+            "week": 8,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 8,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 8,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-11-05": [
+        {
+            "week": 8,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2F\nClass Type: Tutorial\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Tutorial",
+            "location": "Wolfson Medical School:248 Seminar 3-Gann"
+        },
+        {
+            "week": 8,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2A\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "McIntyre Building:201 Flat"
+        },
+        {
+            "week": 8,
+            "end": "12:00:00",
+            "title": "JP2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 8,
+            "end": "15:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Laboratory\nDetails: JP2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-11-02": [
+        {
+            "week": 7,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 7,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 7,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: JP2 Tutorial and Examples class.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 7,
+            "end": "15:00:00",
+            "title": "AF2",
+            "start": "14:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Laboratory\nLecturer: Norman, Dr Gethin\nDetails: AF2 LB01, LB02, LB03\n",
+            "type": "Laboratory",
+            "location": "St Andrews  Building:433A/B"
+        }
+    ],
+    "2018-11-01": [
+        {
+            "week": 7,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 7,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 7,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2019-01-30": [
+        {
+            "week": 20,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 20,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 20,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 20,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 20,
+            "end": "15:00:00",
+            "title": "ADS2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Laboratory\nDetails: ADS2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-01-31": [
+        {
+            "week": 20,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 20,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2018-09-13": [
+        {
+            "week": 0,
+            "end": "12:00:00",
+            "title": "Level 2 Enrolment",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Level 2 Enrolment\nClass Type: Lecture\nDetails: Level 2 Enrolment\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        }
+    ],
+    "2018-09-17": [
+        {
+            "week": 1,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 1,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\nDetails: Week 6 Lecture\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 1,
+            "end": "12:00:00",
+            "title": "JP2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        }
+    ],
+    "2018-09-19": [
+        {
+            "week": 1,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 1,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 1,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        }
+    ],
+    "2018-09-18": [
+        {
+            "week": 1,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 1,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 1,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2019-01-29": [
+        {
+            "week": 20,
+            "end": "11:00:00",
+            "title": "OOSE2",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: OOSE2\nClass Type: Laboratory\nDetails: OOSE2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        },
+        {
+            "week": 20,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 20,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-01-28": [
+        {
+            "week": 20,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2D\nClass Type: Tutorial\nLecturer: Watson, Dr Stephen\n",
+            "type": "Tutorial",
+            "location": "St Andrews  Building:237A/B"
+        },
+        {
+            "week": 20,
+            "end": "12:00:00",
+            "title": "OOSE2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 20,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2E\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "Sir Alexander Stone Building:204"
+        }
+    ],
+    "2019-01-21": [
+        {
+            "week": 19,
+            "end": "12:00:00",
+            "title": "OOSE2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 19,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2C\nClass Type: Tutorial\nLecturer: Gilson, Dr Claire\n",
+            "type": "Tutorial",
+            "location": "Joseph Black Building:A504 Theoreti"
+        }
+    ],
+    "2019-01-23": [
+        {
+            "week": 19,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 19,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 19,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 19,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 19,
+            "end": "15:00:00",
+            "title": "ADS2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Laboratory\nDetails: ADS2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-01-22": [
+        {
+            "week": 19,
+            "end": "11:00:00",
+            "title": "OOSE2",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: OOSE2\nClass Type: Laboratory\nDetails: OOSE2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        },
+        {
+            "week": 19,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 19,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-01-25": [
+        {
+            "week": 19,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 19,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 19,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 19,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: OOSE2\nClass Type: Tutorial\nLecturer: Omoronyia, Dr Inah\nDetails: OOSE2 Examples class.\n",
+            "type": "Tutorial",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 19,
+            "end": "16:00:00",
+            "title": "WAD2",
+            "start": "15:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Laboratory\nDetails: WAD2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-01-24": [
+        {
+            "week": 19,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 19,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2018-10-19": [
+        {
+            "week": 5,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 5,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 5,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: JP2 Tutorial and Examples class.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 5,
+            "end": "15:00:00",
+            "title": "AF2",
+            "start": "14:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Laboratory\nLecturer: Norman, Dr Gethin\nDetails: AF2 LB01, LB02, LB03\n",
+            "type": "Laboratory",
+            "location": "St Andrews  Building:433A/B"
+        }
+    ],
+    "2018-10-18": [
+        {
+            "week": 5,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 5,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 5,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-10-12": [
+        {
+            "week": 4,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 4,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 4,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: JP2 Tutorial and Examples class.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 4,
+            "end": "15:00:00",
+            "title": "AF2",
+            "start": "14:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Laboratory\nLecturer: Norman, Dr Gethin\nDetails: AF2 LB01, LB02, LB03\n",
+            "type": "Laboratory",
+            "location": "St Andrews  Building:433A/B"
+        }
+    ],
+    "2018-10-11": [
+        {
+            "week": 4,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 4,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 4,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-10-10": [
+        {
+            "week": 4,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 4,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 4,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 4,
+            "end": "15:00:00",
+            "title": "NOSE 2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: NOSE 2\nClass Type: Laboratory\nDetails: NOSE2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-10-17": [
+        {
+            "week": 5,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 5,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 5,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 5,
+            "end": "15:00:00",
+            "title": "NOSE 2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: NOSE 2\nClass Type: Laboratory\nDetails: NOSE2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-10-16": [
+        {
+            "week": 5,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 5,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 5,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-10-15": [
+        {
+            "week": 5,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2A\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "McIntyre Building:201 Flat"
+        },
+        {
+            "week": 5,
+            "end": "12:00:00",
+            "title": "JP2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 5,
+            "end": "15:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Laboratory\nDetails: JP2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-09-24": [
+        {
+            "week": 2,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2F\nClass Type: Tutorial\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Tutorial",
+            "location": "Wolfson Medical School:248 Seminar 3-Gann"
+        },
+        {
+            "week": 2,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2A\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "McIntyre Building:201 Flat"
+        },
+        {
+            "week": 2,
+            "end": "12:00:00",
+            "title": "JP2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 2,
+            "end": "15:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Java Programming 2\nClass Type: Laboratory\nDetails: JP2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-09-25": [
+        {
+            "week": 2,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 2,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 2,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-09-26": [
+        {
+            "week": 2,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 2,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 2,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 2,
+            "end": "15:00:00",
+            "title": "NOSE 2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: NOSE 2\nClass Type: Laboratory\nDetails: NOSE2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2018-09-27": [
+        {
+            "week": 2,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 2,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 2,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-09-20": [
+        {
+            "week": 1,
+            "end": "10:00:00",
+            "title": "Maths 2F",
+            "start": "09:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2F\nClass Type: Lecture\nLecturer: Lecuona, Dr Ana\n",
+            "type": "Lecture",
+            "location": "Rankine Building:408  Lecture Theatre"
+        },
+        {
+            "week": 1,
+            "end": "11:00:00",
+            "title": "Maths 2A",
+            "start": "10:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2A\nClass Type: Lecture\nLecturer: Roper, Dr Steven\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 1,
+            "end": "12:00:00",
+            "title": "NOSE 2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: NOSE 2\nClass Type: Lecture\nLecturer: Ntarmos, Dr Nikolaos\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        }
+    ],
+    "2018-09-21": [
+        {
+            "week": 1,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 1,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 1,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: JP2 Tutorial and Examples class.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        }
+    ],
+    "2018-09-28": [
+        {
+            "week": 2,
+            "end": "11:00:00",
+            "title": "Maths 2B",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2B\nClass Type: Lecture\nLecturer: White, Professor Stuart\n",
+            "type": "Lecture",
+            "location": "Main Building:Kelvin Gallery"
+        },
+        {
+            "week": 2,
+            "end": "12:00:00",
+            "title": "AF2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Alg Foundations 2\nClass Type: Lecture\nLecturer: Norman, Dr Gethin\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 2,
+            "end": "14:00:00",
+            "title": "JP2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Java Programming 2\nClass Type: Lecture\nLecturer: Foster, Dr Mary Ellen\nDetails: JP2 Tutorial and Examples class.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        }
+    ],
+    "2019-01-18": [
+        {
+            "week": 18,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 18,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 18,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 18,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: OOSE2\nClass Type: Tutorial\nLecturer: Omoronyia, Dr Inah\nDetails: OOSE2 Examples class.\n",
+            "type": "Tutorial",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 18,
+            "end": "16:00:00",
+            "title": "WAD2",
+            "start": "15:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Laboratory\nDetails: WAD2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-01-14": [
+        {
+            "week": 18,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2D\nClass Type: Tutorial\nLecturer: Watson, Dr Stephen\n",
+            "type": "Tutorial",
+            "location": "St Andrews  Building:237A/B"
+        },
+        {
+            "week": 18,
+            "end": "12:00:00",
+            "title": "OOSE2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 18,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2E\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "Sir Alexander Stone Building:204"
+        }
+    ],
+    "2019-01-15": [
+        {
+            "week": 18,
+            "end": "11:00:00",
+            "title": "OOSE2",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: OOSE2\nClass Type: Laboratory\nDetails: OOSE2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        },
+        {
+            "week": 18,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 18,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-01-16": [
+        {
+            "week": 18,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 18,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 18,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 18,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 18,
+            "end": "15:00:00",
+            "title": "ADS2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Laboratory\nDetails: ADS2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-01-17": [
+        {
+            "week": 18,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 18,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-01-10": [
+        {
+            "week": 17,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 17,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-01-11": [
+        {
+            "week": 17,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 17,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 17,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 17,
+            "end": "16:00:00",
+            "title": "WAD2",
+            "start": "15:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Laboratory\nDetails: WAD2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-02-01": [
+        {
+            "week": 20,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 20,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 20,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 20,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: OOSE2\nClass Type: Tutorial\nLecturer: Omoronyia, Dr Inah\nDetails: OOSE2 Examples class.\n",
+            "type": "Tutorial",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 20,
+            "end": "16:00:00",
+            "title": "WAD2",
+            "start": "15:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Laboratory\nDetails: WAD2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-02-06": [
+        {
+            "week": 21,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 21,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 21,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 21,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 21,
+            "end": "15:00:00",
+            "title": "ADS2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Laboratory\nDetails: ADS2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-02-07": [
+        {
+            "week": 21,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 21,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-02-04": [
+        {
+            "week": 21,
+            "end": "12:00:00",
+            "title": "OOSE2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 21,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2C\nClass Type: Tutorial\nLecturer: Gilson, Dr Claire\n",
+            "type": "Tutorial",
+            "location": "Joseph Black Building:A504 Theoreti"
+        }
+    ],
+    "2019-02-05": [
+        {
+            "week": 21,
+            "end": "11:00:00",
+            "title": "OOSE2",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: OOSE2\nClass Type: Laboratory\nDetails: OOSE2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        },
+        {
+            "week": 21,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 21,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-02-08": [
+        {
+            "week": 21,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 21,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 21,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 21,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: OOSE2\nClass Type: Tutorial\nLecturer: Omoronyia, Dr Inah\nDetails: OOSE2 Examples class.\n",
+            "type": "Tutorial",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 21,
+            "end": "16:00:00",
+            "title": "WAD2",
+            "start": "15:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Laboratory\nDetails: WAD2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-01-07": [
+        {
+            "week": 17,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\nDetails: Special booking for week 22\n",
+            "type": "Lecture",
+            "location": "Kelvin Hall:G59 Lecture"
+        },
+        {
+            "week": 17,
+            "end": "12:00:00",
+            "title": "OOSE2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 17,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        }
+    ],
+    "2019-01-09": [
+        {
+            "week": 17,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 17,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 17,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 17,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        }
+    ],
+    "2019-01-08": [
+        {
+            "week": 17,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 17,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-03-18": [
+        {
+            "week": 27,
+            "end": "12:00:00",
+            "title": "OOSE2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 27,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2C\nClass Type: Tutorial\nLecturer: Gilson, Dr Claire\n",
+            "type": "Tutorial",
+            "location": "Joseph Black Building:A504 Theoreti"
+        }
+    ],
+    "2019-03-19": [
+        {
+            "week": 27,
+            "end": "11:00:00",
+            "title": "OOSE2",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: OOSE2\nClass Type: Laboratory\nDetails: OOSE2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        },
+        {
+            "week": 27,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 27,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-03-14": [
+        {
+            "week": 26,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 26,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Thu",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-03-15": [
+        {
+            "week": 26,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 26,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 26,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 26,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Fri",
+            "desc": "Course: OOSE2\nClass Type: Tutorial\nLecturer: Omoronyia, Dr Inah\nDetails: OOSE2 Examples class.\n",
+            "type": "Tutorial",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 26,
+            "end": "16:00:00",
+            "title": "WAD2",
+            "start": "15:00:00",
+            "weekday": "Fri",
+            "desc": "Course: Web App Development 2\nClass Type: Laboratory\nDetails: WAD2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-03-12": [
+        {
+            "week": 26,
+            "end": "11:00:00",
+            "title": "OOSE2",
+            "start": "09:00:00",
+            "weekday": "Tue",
+            "desc": "Course: OOSE2\nClass Type: Laboratory\nDetails: OOSE2 LB07, LB08\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        },
+        {
+            "week": 26,
+            "end": "12:00:00",
+            "title": "ADS2",
+            "start": "11:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Lecture\nLecturer: Sevegnani, Dr Michele\nDetails: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 26,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Tue",
+            "desc": "Course: Maths 2E\nClass Type: Lecture\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:507 (Lt C)"
+        }
+    ],
+    "2019-03-13": [
+        {
+            "week": 26,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2D\nClass Type: Lecture\nLecturer: Watson, Dr Stephen\n",
+            "type": "Lecture",
+            "location": "James Watt Building:375 (J15)"
+        },
+        {
+            "week": 26,
+            "end": "12:00:00",
+            "title": "WAD2",
+            "start": "11:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Web App Development 2\nClass Type: Lecture\nLecturer: Manlove, Professor David\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Joseph Black Building:B419 Main Lecture Theatre"
+        },
+        {
+            "week": 26,
+            "end": "13:00:00",
+            "title": "Maths 2C",
+            "start": "12:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Maths 2C\nClass Type: Lecture\nLecturer: Gilson, Dr Claire\n",
+            "type": "Lecture",
+            "location": "Gregory Building:109 Main Lecture Theatre"
+        },
+        {
+            "week": 26,
+            "end": "14:00:00",
+            "title": "OOSE2",
+            "start": "13:00:00",
+            "weekday": "Wed",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:222 Lec Theatre 2"
+        },
+        {
+            "week": 26,
+            "end": "15:00:00",
+            "title": "ADS2",
+            "start": "14:00:00",
+            "weekday": "Wed",
+            "desc": "Course: Algs & Data Structures 2\nClass Type: Laboratory\nDetails: ADS2 LB03, LB04\n",
+            "type": "Laboratory",
+            "location": "Boyd Orr Building:706 Lab"
+        }
+    ],
+    "2019-03-11": [
+        {
+            "week": 26,
+            "end": "11:00:00",
+            "title": "Maths 2D",
+            "start": "10:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2D\nClass Type: Tutorial\nLecturer: Watson, Dr Stephen\n",
+            "type": "Tutorial",
+            "location": "St Andrews  Building:237A/B"
+        },
+        {
+            "week": 26,
+            "end": "12:00:00",
+            "title": "OOSE2",
+            "start": "11:00:00",
+            "weekday": "Mon",
+            "desc": "Course: OOSE2\nClass Type: Lecture\nLecturer: Omoronyia, Dr Inah\nDetails: Lecture.\n",
+            "type": "Lecture",
+            "location": "Boyd Orr Building:203 Lec Theatre 1"
+        },
+        {
+            "week": 26,
+            "end": "13:00:00",
+            "title": "Maths 2E",
+            "start": "12:00:00",
+            "weekday": "Mon",
+            "desc": "Course: Maths 2E\nClass Type: Tutorial\n",
+            "type": "Tutorial",
+            "location": "Sir Alexander Stone Building:204"
+        }
+    ]
+}

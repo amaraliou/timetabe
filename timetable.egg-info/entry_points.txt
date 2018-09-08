@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        timetable=timetable.__main__:timetable
+        
